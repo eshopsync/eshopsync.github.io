@@ -14,6 +14,7 @@ body {
   -webkit-font-smoothing: antialiased;
   font-size: 100%;
 }
+
 a:link,
 a:hover,
 a:focus,
@@ -278,7 +279,6 @@ footer + img {
   padding: 23px 10px 22px;
   color: #ffffff;
   display: inline-block;
-  text-transform: uppercase;
 }
 .wk-navigation ul li a:hover {
   background-color: #00366a;
